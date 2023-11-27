@@ -1,0 +1,7 @@
+{
+  "name": "RefreshDate",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "RefreshDate",
+  "isAvailableInMdx": false
+}

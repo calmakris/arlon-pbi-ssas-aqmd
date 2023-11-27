@@ -1,0 +1,14 @@
+{
+  "name": "_Refresh Date",
+  "isHidden": true,
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    },
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"DATE/CALENDAR_TABLES_SHOULD_BE_MARKED_AS_A_DATE_TABLE\",\"ENSURE_TABLES_HAVE_RELATIONSHIPS\"]}"
+    }
+  ]
+}
