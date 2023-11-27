@@ -1,5 +1,6 @@
 {
   "name": "Calendar Hierarchy",
+  "displayFolder": "_Calendar",
   "levels": [
     {
       "name": "Calendar Year",

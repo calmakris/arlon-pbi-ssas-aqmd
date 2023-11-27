@@ -3,6 +3,6 @@
   "dataType": "dateTime",
   "sourceColumn": "Start_Of_Week",
   "formatString": "Short Date",
-  "displayFolder": "Other",
+  "displayFolder": "_Other",
   "dataCategory": "Date"
 }

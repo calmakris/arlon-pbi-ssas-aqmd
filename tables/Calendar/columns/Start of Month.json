@@ -3,7 +3,7 @@
   "dataType": "dateTime",
   "sourceColumn": "Start_Of_Month",
   "formatString": "Short Date",
-  "displayFolder": "Other",
+  "displayFolder": "_Other",
   "dataCategory": "Date",
   "annotations": [
     {

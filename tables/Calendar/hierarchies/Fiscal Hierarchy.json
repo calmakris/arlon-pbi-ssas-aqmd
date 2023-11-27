@@ -1,5 +1,6 @@
 {
   "name": "Fiscal Hierarchy",
+  "displayFolder": "_Fiscal",
   "levels": [
     {
       "name": "Date",

@@ -2,6 +2,6 @@
   "name": "Calendar Quarter",
   "dataType": "string",
   "sourceColumn": "Quarter_Of_Year_Name",
-  "displayFolder": "Calendar",
+  "displayFolder": "_Calendar",
   "dataCategory": "QuarterOfYear"
 }

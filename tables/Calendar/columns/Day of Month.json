@@ -2,7 +2,7 @@
   "name": "Day of Month",
   "dataType": "int64",
   "sourceColumn": "Day_Of_Month",
-  "displayFolder": "Calendar",
+  "displayFolder": "_Calendar",
   "dataCategory": "DayOfMonth",
   "summarizeBy": "none"
 }

@@ -2,6 +2,6 @@
   "name": "Fiscal Year",
   "dataType": "string",
   "sourceColumn": "Fiscal_Year_Name",
-  "displayFolder": "Fiscal",
+  "displayFolder": "_Fiscal",
   "summarizeBy": "none"
 }

@@ -2,7 +2,7 @@
   "name": "Day of Calendar Year",
   "dataType": "int64",
   "sourceColumn": "Day_Of_Calendar_Year",
-  "displayFolder": "Calendar",
+  "displayFolder": "_Calendar",
   "dataCategory": "DayOfYear",
   "summarizeBy": "none"
 }

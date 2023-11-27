@@ -2,5 +2,5 @@
   "name": "Weekday",
   "dataType": "string",
   "sourceColumn": "Weekday_Name",
-  "displayFolder": "Other"
+  "displayFolder": "_Other"
 }

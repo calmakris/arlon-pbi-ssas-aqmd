@@ -2,7 +2,7 @@
   "name": "Calendar Period",
   "dataType": "int64",
   "sourceColumn": "Month_Of_Year",
-  "displayFolder": "Calendar",
+  "displayFolder": "_Calendar",
   "dataCategory": "MonthOfYear",
   "summarizeBy": "none"
 }

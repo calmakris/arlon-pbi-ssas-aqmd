@@ -2,6 +2,6 @@
   "name": "Fiscal Quarter",
   "dataType": "string",
   "sourceColumn": "Fiscal_Quarter_Of_Year_Name",
-  "displayFolder": "Fiscal",
+  "displayFolder": "_Fiscal",
   "dataCategory": "FiscalQuarterOfYear"
 }
