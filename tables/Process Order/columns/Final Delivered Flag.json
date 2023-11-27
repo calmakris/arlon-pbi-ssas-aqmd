@@ -1,0 +1,6 @@
+{
+  "name": "Final Delivered Flag",
+  "dataType": "string",
+  "sourceColumn": "FinalDeliverFlag",
+  "displayFolder": "_Flags"
+}

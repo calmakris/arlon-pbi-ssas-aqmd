@@ -1,0 +1,14 @@
+{
+  "name": "Department",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"DIM_Department\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

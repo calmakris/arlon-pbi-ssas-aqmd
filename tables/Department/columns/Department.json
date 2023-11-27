@@ -1,0 +1,8 @@
+{
+  "name": "Department",
+  "dataType": "string",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "DepartmentKey",
+  "sortByColumn": "SortKey"
+}

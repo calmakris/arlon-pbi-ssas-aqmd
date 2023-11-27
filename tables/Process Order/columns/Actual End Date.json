@@ -1,0 +1,7 @@
+{
+  "name": "Actual End Date",
+  "dataType": "dateTime",
+  "sourceColumn": "ActualEndDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

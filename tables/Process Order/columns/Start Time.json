@@ -1,0 +1,6 @@
+{
+  "name": "Start Time",
+  "dataType": "dateTime",
+  "sourceColumn": "StartTime",
+  "displayFolder": "_Dates"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Closed Flag",
+  "dataType": "string",
+  "sourceColumn": "CloseFlag",
+  "displayFolder": "_Flags"
+}

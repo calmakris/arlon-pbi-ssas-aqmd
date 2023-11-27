@@ -1,0 +1,9 @@
+{
+  "name": "Department",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

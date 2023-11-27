@@ -1,0 +1,6 @@
+{
+  "name": "Released Flag",
+  "dataType": "string",
+  "sourceColumn": "ReleasedFlag",
+  "displayFolder": "_Flags"
+}

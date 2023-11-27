@@ -1,0 +1,7 @@
+{
+  "name": "Confirm Date",
+  "dataType": "dateTime",
+  "sourceColumn": "ConfirmDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

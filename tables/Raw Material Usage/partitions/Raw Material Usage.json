@@ -1,0 +1,14 @@
+{
+  "name": "Raw Material Usage",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"FACT_EnvReport_RawMatUsage\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

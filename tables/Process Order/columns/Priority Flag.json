@@ -1,0 +1,5 @@
+{
+  "name": "Priority Flag",
+  "dataType": "string",
+  "sourceColumn": "PriorityFlag"
+}

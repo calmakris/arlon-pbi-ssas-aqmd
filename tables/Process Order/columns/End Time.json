@@ -1,0 +1,6 @@
+{
+  "name": "End Time",
+  "dataType": "dateTime",
+  "sourceColumn": "EndTime",
+  "displayFolder": "_Dates"
+}

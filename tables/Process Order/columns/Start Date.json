@@ -1,0 +1,7 @@
+{
+  "name": "Start Date",
+  "dataType": "dateTime",
+  "sourceColumn": "StartDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

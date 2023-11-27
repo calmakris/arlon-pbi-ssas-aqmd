@@ -1,0 +1,7 @@
+{
+  "name": "Machine",
+  "dataType": "string",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "MachineName"
+}

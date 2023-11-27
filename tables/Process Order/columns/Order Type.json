@@ -1,0 +1,5 @@
+{
+  "name": "Order Type",
+  "dataType": "string",
+  "sourceColumn": "OrderType"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TECO Flag",
+  "dataType": "string",
+  "sourceColumn": "TecoFlag",
+  "displayFolder": "_Flags"
+}

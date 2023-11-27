@@ -1,0 +1,7 @@
+{
+  "name": "Process Order Number",
+  "dataType": "string",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "OrderNoKey"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Raw Material Usage Quantity",
+  "description": "The total quantity (in pounds) of raw materials used based on the goods issues against process orders. If a line uses a material that is produced by another line, the former line is assigned to that particular raw material.",
+  "expression": "SUM( 'Raw Material Usage'[UsageQtyLB] )",
+  "formatString": "#,0.00",
+  "displayFolder": "Raw Material Usage"
+}

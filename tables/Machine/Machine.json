@@ -1,0 +1,9 @@
+{
+  "name": "Machine",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

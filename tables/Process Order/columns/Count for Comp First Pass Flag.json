@@ -1,0 +1,6 @@
+{
+  "name": "Count for Comp First Pass Flag",
+  "dataType": "string",
+  "sourceColumn": "CountForCompFPassFlag",
+  "displayFolder": "_Flags"
+}

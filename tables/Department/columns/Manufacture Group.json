@@ -1,0 +1,5 @@
+{
+  "name": "Manufacture Group",
+  "dataType": "string",
+  "sourceColumn": "ManufactureGroup"
+}

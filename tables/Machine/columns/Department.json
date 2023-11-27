@@ -1,0 +1,5 @@
+{
+  "name": "Department",
+  "dataType": "string",
+  "sourceColumn": "Department"
+}

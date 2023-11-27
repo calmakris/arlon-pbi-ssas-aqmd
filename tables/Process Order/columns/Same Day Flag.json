@@ -1,0 +1,6 @@
+{
+  "name": "Same Day Flag",
+  "dataType": "string",
+  "sourceColumn": "SameDayFlag",
+  "displayFolder": "_Flags"
+}
