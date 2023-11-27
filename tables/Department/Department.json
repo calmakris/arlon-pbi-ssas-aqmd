@@ -1,5 +1,6 @@
 {
   "name": "Department",
+  "description": "This table provides general information about each department.",
   "annotations": [
     {
       "name": "TabularEditor_Relationships",

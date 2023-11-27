@@ -1,6 +1,7 @@
 {
   "name": "End Date",
   "dataType": "dateTime",
+  "description": "Scheduled finish date for the execution of the order.",
   "sourceColumn": "EndDate",
   "formatString": "Short Date",
   "displayFolder": "_Dates"

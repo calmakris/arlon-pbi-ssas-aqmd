@@ -1,6 +1,7 @@
 {
   "name": "Week of Year",
   "dataType": "int64",
+  "description": "Week index based on the calendar.",
   "sourceColumn": "Week_Of_Year",
   "displayFolder": "_Calendar",
   "dataCategory": "WeekOfYear",

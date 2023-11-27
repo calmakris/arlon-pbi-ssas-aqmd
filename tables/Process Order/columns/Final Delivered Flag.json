@@ -1,6 +1,7 @@
 {
   "name": "Final Delivered Flag",
   "dataType": "string",
+  "description": "Determines if the final goods receipt has been issued against the process order.",
   "sourceColumn": "FinalDeliverFlag",
   "displayFolder": "_Flags"
 }

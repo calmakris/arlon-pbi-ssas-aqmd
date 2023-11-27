@@ -1,6 +1,7 @@
 {
   "name": "Week Group",
   "dataType": "string",
+  "description": "Calendar year and week index combined.",
   "sourceColumn": "Group_Week",
   "sortByColumn": "Year_Week_Sort_Key",
   "displayFolder": "_Other"

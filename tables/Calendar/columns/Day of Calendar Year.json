@@ -1,6 +1,7 @@
 {
   "name": "Day of Calendar Year",
   "dataType": "int64",
+  "description": "Number of days from Jan 1.",
   "sourceColumn": "Day_Of_Calendar_Year",
   "displayFolder": "_Calendar",
   "dataCategory": "DayOfYear",

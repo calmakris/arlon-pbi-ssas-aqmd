@@ -1,5 +1,6 @@
 {
   "name": "Comment",
   "dataType": "string",
+  "description": "Text entered in the comments box of the process order.",
   "sourceColumn": "OrderComment"
 }

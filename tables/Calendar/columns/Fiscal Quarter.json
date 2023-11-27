@@ -1,6 +1,7 @@
 {
   "name": "Fiscal Quarter",
   "dataType": "string",
+  "description": "Quarter based on the fiscal calendar.",
   "sourceColumn": "Fiscal_Quarter_Of_Year_Name",
   "displayFolder": "_Fiscal",
   "dataCategory": "FiscalQuarterOfYear"

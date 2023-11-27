@@ -1,5 +1,6 @@
 {
   "name": "Machine",
+  "description": "This table provides general information about each machine.",
   "annotations": [
     {
       "name": "TabularEditor_Relationships",

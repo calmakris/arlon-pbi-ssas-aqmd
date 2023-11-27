@@ -1,5 +1,6 @@
 {
   "name": "Department",
   "dataType": "string",
+  "description": "Assigned department of the machine.",
   "sourceColumn": "Department"
 }

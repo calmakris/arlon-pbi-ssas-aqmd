@@ -1,6 +1,7 @@
 {
   "name": "Calendar Year",
   "dataType": "string",
+  "description": "Year part of the date.",
   "sourceColumn": "Year_Name",
   "displayFolder": "_Calendar",
   "dataCategory": "Years",

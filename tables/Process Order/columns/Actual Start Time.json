@@ -1,6 +1,8 @@
 {
   "name": "Actual Start Time",
   "dataType": "dateTime",
+  "description": "Time at which production began.",
   "sourceColumn": "ActualStartTime",
+  "formatString": "hh:nn:ss",
   "displayFolder": "_Dates"
 }

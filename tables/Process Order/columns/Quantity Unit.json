@@ -1,5 +1,6 @@
 {
   "name": "Quantity Unit",
   "dataType": "string",
+  "description": "Unit of measure in which the material is managed.",
   "sourceColumn": "QtyUoM"
 }

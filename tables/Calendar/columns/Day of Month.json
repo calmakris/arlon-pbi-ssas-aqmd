@@ -1,6 +1,7 @@
 {
   "name": "Day of Month",
   "dataType": "int64",
+  "description": "Number of days from the beginning of the month.",
   "sourceColumn": "Day_Of_Month",
   "displayFolder": "_Calendar",
   "dataCategory": "DayOfMonth",

@@ -1,6 +1,7 @@
 {
   "name": "Department",
   "dataType": "string",
+  "description": "Unique identifier of the department.",
   "isUnique": true,
   "isKey": true,
   "sourceColumn": "DepartmentKey",

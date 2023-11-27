@@ -1,6 +1,7 @@
 {
   "name": "Calendar Month",
   "dataType": "string",
+  "description": "Month names sorted by calendar (Jan  to Dec).",
   "sourceColumn": "Month_Name_Abbrev_Calendar",
   "sortByColumn": "Calendar Period",
   "displayFolder": "_Calendar"

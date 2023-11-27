@@ -1,6 +1,8 @@
 {
   "name": "End Time",
   "dataType": "dateTime",
+  "description": "Scheduled finish time for the execution of the order.",
   "sourceColumn": "EndTime",
+  "formatString": "hh:nn:ss",
   "displayFolder": "_Dates"
 }

@@ -1,6 +1,7 @@
 {
   "name": "Weekday",
   "dataType": "string",
+  "description": "Name of the day of the week.",
   "sourceColumn": "Weekday_Name",
   "displayFolder": "_Other"
 }

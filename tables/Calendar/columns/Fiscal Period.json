@@ -1,6 +1,7 @@
 {
   "name": "Fiscal Period",
   "dataType": "int64",
+  "description": "Month index based on the fiscal calendar.",
   "sourceColumn": "Fiscal_Month_Of_Year",
   "displayFolder": "_Fiscal",
   "dataCategory": "FiscalMonthOfYear",

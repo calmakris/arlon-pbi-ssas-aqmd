@@ -1,5 +1,6 @@
 {
   "name": "Manufacture Group",
   "dataType": "string",
+  "description": "Determines whether the department is part of Upstream, Downstream, or Indirect group.",
   "sourceColumn": "ManufactureGroup"
 }

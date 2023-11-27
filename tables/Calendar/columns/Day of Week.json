@@ -1,6 +1,7 @@
 {
   "name": "Day of Week",
   "dataType": "int64",
+  "description": "Number of days from Sunday.",
   "sourceColumn": "Day_Of_Week",
   "displayFolder": "_Calendar",
   "dataCategory": "DayOfWeek",

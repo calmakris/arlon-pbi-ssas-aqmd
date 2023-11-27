@@ -1,6 +1,8 @@
 {
   "name": "Start Time",
   "dataType": "dateTime",
+  "description": "Scheduled start time for the execution of the order.",
   "sourceColumn": "StartTime",
+  "formatString": "hh:nn:ss",
   "displayFolder": "_Dates"
 }
