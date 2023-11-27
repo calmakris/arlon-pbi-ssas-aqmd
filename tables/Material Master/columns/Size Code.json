@@ -1,0 +1,7 @@
+{
+  "name": "Size Code",
+  "dataType": "string",
+  "description": "The size code that provides the overall dimension of the material.",
+  "sourceColumn": "SizeCode",
+  "displayFolder": "Classification"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Scrap Usage Flag",
+  "dataType": "string",
+  "description": "Indicates whether the cost element is related to the scrap/usage metric in the Operations departments.",
+  "sourceColumn": "IsScrapUsageAcct",
+  "displayFolder": "_Flags"
+}

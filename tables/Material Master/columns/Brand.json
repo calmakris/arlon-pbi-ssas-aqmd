@@ -1,0 +1,8 @@
+{
+  "name": "Brand",
+  "dataType": "string",
+  "description": "The brand of the material. It often indicates custom labels.",
+  "sourceColumn": "Brand",
+  "displayFolder": "Classification",
+  "dataCategory": "ProductBrand"
+}

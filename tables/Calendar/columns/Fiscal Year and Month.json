@@ -1,0 +1,7 @@
+{
+  "name": "Fiscal Year and Month",
+  "dataType": "string",
+  "sourceColumn": "Fiscal_Year_Month_Name",
+  "sortByColumn": "Year_Month_Sort_Key",
+  "displayFolder": "Fiscal"
+}

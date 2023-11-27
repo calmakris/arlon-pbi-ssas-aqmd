@@ -1,0 +1,7 @@
+{
+  "name": "Sub Category",
+  "dataType": "string",
+  "description": "The non-SAP sub category of the cost element.",
+  "sourceColumn": "SubCategory",
+  "sortByColumn": "SubCategorySortKey"
+}

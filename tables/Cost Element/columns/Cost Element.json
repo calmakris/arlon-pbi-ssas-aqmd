@@ -1,0 +1,8 @@
+{
+  "name": "Cost Element",
+  "dataType": "string",
+  "description": "Unique identifier for each cost element.",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "CostElementKey"
+}

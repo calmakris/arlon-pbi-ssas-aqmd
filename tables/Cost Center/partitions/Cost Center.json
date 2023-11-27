@@ -1,0 +1,14 @@
+{
+  "name": "Cost Center",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"DIM_CostCenter\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

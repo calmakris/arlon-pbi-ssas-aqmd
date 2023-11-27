@@ -1,0 +1,7 @@
+{
+  "name": "Material Number Prefix",
+  "dataType": "string",
+  "description": "The 2nd to 5th characters of the material number.",
+  "sourceColumn": "MaterialNoPrefix",
+  "displayFolder": "Master"
+}

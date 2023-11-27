@@ -1,0 +1,7 @@
+{
+  "name": "Discontinued Flag",
+  "dataType": "string",
+  "description": "Indicates whether the material is discontinued based on the cross distribution status, cross-plant status, and the material description.",
+  "sourceColumn": "DiscontinuedFlag",
+  "displayFolder": "Master"
+}

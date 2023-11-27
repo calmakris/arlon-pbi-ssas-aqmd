@@ -1,0 +1,8 @@
+{
+  "name": "Square Feet",
+  "dataType": "decimal",
+  "description": "The square feet of the material.",
+  "sourceColumn": "SquareFeetValue",
+  "displayFolder": "Dimension",
+  "summarizeBy": "none"
+}

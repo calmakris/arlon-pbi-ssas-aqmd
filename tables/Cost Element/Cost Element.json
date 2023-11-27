@@ -1,0 +1,10 @@
+{
+  "name": "Cost Element",
+  "description": "This table stores information about cost elements within the SAP system. Cost elements represent individual types of expenses or revenues incurred by the organization. Each record in this table corresponds to a unique cost element and includes relevant attributes. Some flags and categories in this table may be manually assigned and are not solely derived from SAP. This allows for additional flexibility in classification.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

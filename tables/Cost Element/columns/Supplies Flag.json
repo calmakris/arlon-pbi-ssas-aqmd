@@ -1,0 +1,7 @@
+{
+  "name": "Supplies Flag",
+  "dataType": "string",
+  "description": "Indicates whether the cost element is an expense account for supplies.",
+  "sourceColumn": "IsSupplies",
+  "displayFolder": "_Flags"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Year_Month_Sort_Key",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Year_Month_Sort_Key",
+  "displayFolder": "Other",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"MONTH_(AS_A_STRING)_MUST_BE_SORTED\"]}"
+    }
+  ]
+}

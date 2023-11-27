@@ -1,0 +1,7 @@
+{
+  "name": "Liner",
+  "dataType": "string",
+  "description": "Indicates the liner used for the material.",
+  "sourceColumn": "Liner",
+  "displayFolder": "Classification"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Currency",
+  "dataType": "string",
+  "description": "The currency associated with the company code for financial transactions.",
+  "sourceColumn": "Currency",
+  "dataCategory": "CurrencyIsOCode"
+}

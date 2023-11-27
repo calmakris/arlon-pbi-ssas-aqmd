@@ -1,0 +1,10 @@
+{
+  "name": "Company Code",
+  "description": "This table stores information about company codes within the SAP system. Company codes represent individual legal entities or financial accounting entities within the organization. Each record in this table corresponds to a unique company code and includes relevant attributes.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

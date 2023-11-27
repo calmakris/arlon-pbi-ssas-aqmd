@@ -1,0 +1,6 @@
+{
+  "name": "Cost Element Name",
+  "dataType": "string",
+  "description": "The name or description of the cost element.",
+  "sourceColumn": "CostElementName"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Created Date",
+  "dataType": "dateTime",
+  "description": "Date when the part number is created in SAP.",
+  "sourceColumn": "CreatedDate",
+  "formatString": "Short Date",
+  "displayFolder": "Master"
+}

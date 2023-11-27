@@ -1,0 +1,8 @@
+{
+  "name": "Day of Month",
+  "dataType": "int64",
+  "sourceColumn": "Day_Of_Month",
+  "displayFolder": "Calendar",
+  "dataCategory": "DayOfMonth",
+  "summarizeBy": "none"
+}

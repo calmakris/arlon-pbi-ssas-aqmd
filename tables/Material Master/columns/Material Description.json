@@ -1,0 +1,7 @@
+{
+  "name": "Material Description",
+  "dataType": "string",
+  "description": "The description of the material.",
+  "sourceColumn": "MaterialDescription",
+  "displayFolder": "Master"
+}

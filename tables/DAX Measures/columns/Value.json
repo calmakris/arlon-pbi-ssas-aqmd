@@ -1,0 +1,16 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Value",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Value]",
+  "isAvailableInMdx": false,
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"UNNECESSARY_COLUMNS\"]}"
+    }
+  ]
+}

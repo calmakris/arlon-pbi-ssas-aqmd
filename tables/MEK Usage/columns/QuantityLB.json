@@ -1,0 +1,9 @@
+{
+  "name": "QuantityLB",
+  "dataType": "decimal",
+  "isHidden": true,
+  "sourceColumn": "QuantityLB",
+  "formatString": "#,0.00",
+  "isAvailableInMdx": false,
+  "summarizeBy": "none"
+}

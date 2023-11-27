@@ -1,0 +1,8 @@
+{
+  "name": "Commercialization Date",
+  "dataType": "dateTime",
+  "description": "The date when the material is launched to the public.",
+  "sourceColumn": "CommercializationDate",
+  "formatString": "Short Date",
+  "displayFolder": "Classification"
+}

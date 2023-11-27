@@ -1,0 +1,14 @@
+{
+  "name": "Start of Month",
+  "dataType": "dateTime",
+  "sourceColumn": "Start_Of_Month",
+  "formatString": "Short Date",
+  "displayFolder": "Other",
+  "dataCategory": "Date",
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"MONTHCOLUMN_FORMATSTRING\"]}"
+    }
+  ]
+}

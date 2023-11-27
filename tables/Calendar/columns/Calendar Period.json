@@ -1,0 +1,8 @@
+{
+  "name": "Calendar Period",
+  "dataType": "int64",
+  "sourceColumn": "Month_Of_Year",
+  "displayFolder": "Calendar",
+  "dataCategory": "MonthOfYear",
+  "summarizeBy": "none"
+}

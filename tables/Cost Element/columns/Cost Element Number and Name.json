@@ -1,0 +1,6 @@
+{
+  "name": "Cost Element Number and Name",
+  "dataType": "string",
+  "description": "The unique identifier and name of the cost element combined.",
+  "sourceColumn": "CostElementNoName"
+}

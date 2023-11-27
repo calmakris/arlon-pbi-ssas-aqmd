@@ -1,0 +1,7 @@
+{
+  "name": "Cross Distribution Status",
+  "dataType": "string",
+  "description": "Indicates whether the material is active, prelaunch, or discontinued.",
+  "sourceColumn": "XDistributionStatus",
+  "displayFolder": "Master"
+}

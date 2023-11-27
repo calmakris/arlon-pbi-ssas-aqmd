@@ -1,0 +1,10 @@
+{
+  "name": "Plant",
+  "description": "Contains the different plant (warehouses) in SAP. This table is related to Fact tables with transactions by plant.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Labor Flag",
+  "dataType": "string",
+  "description": "Indicates whether the cost element is related to labor.",
+  "sourceColumn": "IsLabor",
+  "displayFolder": "_Flags"
+}

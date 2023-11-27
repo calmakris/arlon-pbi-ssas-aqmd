@@ -1,0 +1,8 @@
+{
+  "name": "Start of Week",
+  "dataType": "dateTime",
+  "sourceColumn": "Start_Of_Week",
+  "formatString": "Short Date",
+  "displayFolder": "Other",
+  "dataCategory": "Date"
+}

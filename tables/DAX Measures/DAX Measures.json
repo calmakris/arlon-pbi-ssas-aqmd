@@ -1,0 +1,14 @@
+{
+  "name": "DAX Measures",
+  "description": "Contains all calculations for analysis, such as sums, averages, etc.",
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"REDUCE_USAGE_OF_CALCULATED_TABLES\",\"ENSURE_TABLES_HAVE_RELATIONSHIPS\"]}"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

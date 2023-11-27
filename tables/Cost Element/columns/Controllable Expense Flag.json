@@ -1,0 +1,7 @@
+{
+  "name": "Controllable Expense Flag",
+  "dataType": "string",
+  "description": "Indicates whether the cost element is a controllable expense account. This flag is only applicable to expenses-related cost elements.",
+  "sourceColumn": "IsControllableExpense",
+  "displayFolder": "_Flags"
+}

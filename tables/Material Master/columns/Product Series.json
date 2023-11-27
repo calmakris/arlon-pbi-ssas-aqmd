@@ -1,0 +1,7 @@
+{
+  "name": "Product Series",
+  "dataType": "string",
+  "description": "The category assigned to the material from the commercial perspective. It is the categories used in the products section of the website.",
+  "sourceColumn": "ProductSeries",
+  "displayFolder": "Classification"
+}

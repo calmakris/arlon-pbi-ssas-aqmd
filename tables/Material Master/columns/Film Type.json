@@ -1,0 +1,7 @@
+{
+  "name": "Film Type",
+  "dataType": "string",
+  "description": "Indicates the type of film used for the material.",
+  "sourceColumn": "FilmType",
+  "displayFolder": "Classification"
+}

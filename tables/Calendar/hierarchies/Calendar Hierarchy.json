@@ -1,0 +1,25 @@
+{
+  "name": "Calendar Hierarchy",
+  "levels": [
+    {
+      "name": "Calendar Year",
+      "ordinal": 0,
+      "column": "Calendar Year"
+    },
+    {
+      "name": "Calendar Quarter",
+      "ordinal": 1,
+      "column": "Calendar Quarter"
+    },
+    {
+      "name": "Calendar Month",
+      "ordinal": 2,
+      "column": "Calendar Month"
+    },
+    {
+      "name": "Date",
+      "ordinal": 3,
+      "column": "Date"
+    }
+  ]
+}

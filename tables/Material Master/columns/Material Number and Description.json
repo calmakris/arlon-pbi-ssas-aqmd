@@ -1,0 +1,7 @@
+{
+  "name": "Material Number and Description",
+  "dataType": "string",
+  "description": "The unique identifier and description of the material combined.",
+  "sourceColumn": "MaterialNoDescription",
+  "displayFolder": "Master"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Width",
+  "dataType": "decimal",
+  "description": "The width of the roll in inches.",
+  "sourceColumn": "WidthValue",
+  "displayFolder": "Dimension",
+  "summarizeBy": "none"
+}

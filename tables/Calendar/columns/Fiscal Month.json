@@ -1,0 +1,7 @@
+{
+  "name": "Fiscal Month",
+  "dataType": "string",
+  "sourceColumn": "Month_Name_Abbrev",
+  "sortByColumn": "Fiscal Period",
+  "displayFolder": "Fiscal"
+}

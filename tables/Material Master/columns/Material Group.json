@@ -1,0 +1,8 @@
+{
+  "name": "Material Group",
+  "dataType": "string",
+  "description": "The category assigned to the material. It is often used by the Operations departments. It is broader than the Product Series category.",
+  "sourceColumn": "MaterialGroup",
+  "displayFolder": "Master",
+  "dataCategory": "ProductGroup"
+}

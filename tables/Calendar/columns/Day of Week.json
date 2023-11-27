@@ -1,0 +1,8 @@
+{
+  "name": "Day of Week",
+  "dataType": "int64",
+  "sourceColumn": "Day_Of_Week",
+  "displayFolder": "Calendar",
+  "dataCategory": "DayOfWeek",
+  "summarizeBy": "none"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fiscal Hierarchy",
+  "levels": [
+    {
+      "name": "Date",
+      "ordinal": 3,
+      "column": "Date"
+    },
+    {
+      "name": "Fiscal Month",
+      "ordinal": 2,
+      "column": "Fiscal Month"
+    },
+    {
+      "name": "Fiscal Quarter",
+      "ordinal": 1,
+      "column": "Fiscal Quarter"
+    },
+    {
+      "name": "Fiscal Year",
+      "ordinal": 0,
+      "column": "Fiscal Year"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Plant",
+  "dataType": "string",
+  "description": "Identifier for warehouses (1001 = Placentia, 1501 = San Antonio, etc.)",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "PlantNoKey"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Material Number",
+  "dataType": "string",
+  "description": "Unique identifier of the material (also known as the part number).",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "MaterialNoKey",
+  "displayFolder": "Master",
+  "dataCategory": "Product"
+}

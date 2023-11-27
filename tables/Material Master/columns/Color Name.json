@@ -1,0 +1,7 @@
+{
+  "name": "Color Name",
+  "dataType": "string",
+  "description": "The description of the material's color.",
+  "sourceColumn": "ColorName",
+  "displayFolder": "Classification"
+}

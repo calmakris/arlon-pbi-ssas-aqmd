@@ -1,0 +1,6 @@
+{
+  "name": "Category Renamed",
+  "dataType": "string",
+  "description": "The same as the Category field but renamed to a shorter version or more friendly name.",
+  "sourceColumn": "CatRenamed"
+}

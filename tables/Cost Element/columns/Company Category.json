@@ -1,0 +1,6 @@
+{
+  "name": "Company Category",
+  "dataType": "string",
+  "description": "The non-SAP category of the cost element from a broad, company perspective.",
+  "sourceColumn": "CompanyCategory"
+}

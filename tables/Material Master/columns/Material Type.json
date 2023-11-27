@@ -1,0 +1,7 @@
+{
+  "name": "Material Type",
+  "dataType": "string",
+  "description": "Indicates whether the material is a raw material, semi-finished good, finished good, buyout, etc.",
+  "sourceColumn": "MaterialType",
+  "displayFolder": "Master"
+}

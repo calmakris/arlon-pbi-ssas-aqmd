@@ -1,0 +1,6 @@
+{
+  "name": "Category",
+  "dataType": "string",
+  "description": "The non-SAP category in which the cost element belongs.",
+  "sourceColumn": "Category"
+}

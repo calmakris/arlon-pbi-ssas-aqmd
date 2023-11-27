@@ -1,0 +1,7 @@
+{
+  "name": "Specification Number",
+  "dataType": "string",
+  "description": "The specification number that indicates the manufacturing requirements of the material.",
+  "sourceColumn": "SpecNo",
+  "displayFolder": "Master"
+}

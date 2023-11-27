@@ -1,0 +1,7 @@
+{
+  "name": "Type Code",
+  "dataType": "string",
+  "description": "Indicates if the material is standard, buyout, custom, etc.",
+  "sourceColumn": "TypeCode",
+  "displayFolder": "Classification"
+}

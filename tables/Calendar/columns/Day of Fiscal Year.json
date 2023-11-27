@@ -1,0 +1,8 @@
+{
+  "name": "Day of Fiscal Year",
+  "dataType": "int64",
+  "sourceColumn": "Day_Of_Fiscal_Year",
+  "displayFolder": "Fiscal",
+  "dataCategory": "FiscalDayOfYear",
+  "summarizeBy": "none"
+}

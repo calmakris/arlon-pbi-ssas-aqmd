@@ -1,0 +1,7 @@
+{
+  "name": "Unit of Measure",
+  "dataType": "string",
+  "description": "Units used when stocking this material in the warehouse.",
+  "sourceColumn": "UnitOfMeasure",
+  "displayFolder": "Master"
+}

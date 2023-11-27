@@ -1,0 +1,8 @@
+{
+  "name": "PostingDateKey",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "PostingDateKey",
+  "formatString": "Short Date",
+  "isAvailableInMdx": false
+}

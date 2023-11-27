@@ -1,0 +1,10 @@
+{
+  "name": "Material Master",
+  "description": "Contains the general information for each part number created in SAP. This table is related to Fact tables with transactions posted by material.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

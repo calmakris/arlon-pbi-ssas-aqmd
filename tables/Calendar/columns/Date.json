@@ -1,0 +1,15 @@
+{
+  "name": "Date",
+  "dataType": "dateTime",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "PK_Date",
+  "formatString": "Short Date",
+  "dataCategory": "Date",
+  "annotations": [
+    {
+      "name": "TabularEditor_MarkAsDateKey",
+      "value": "1"
+    }
+  ]
+}

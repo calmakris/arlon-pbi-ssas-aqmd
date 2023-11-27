@@ -1,0 +1,10 @@
+{
+  "name": "Cost Center",
+  "description": "This table contains information about cost centers within the SAP system. Cost centers are organizational units responsible for managing and controlling costs associated with specific activities or departments. Each record in this table represents a unique cost center and includes relevant attributes. Some flags and categories in this table may be manually assigned and are not solely derived from SAP. This allows for additional flexibility in classification.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

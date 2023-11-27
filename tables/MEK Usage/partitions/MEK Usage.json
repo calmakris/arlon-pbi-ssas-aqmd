@@ -1,0 +1,14 @@
+{
+  "name": "MEK Usage",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"FACT_EnvReport_MEKUsage\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

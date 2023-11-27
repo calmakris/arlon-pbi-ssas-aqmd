@@ -1,0 +1,7 @@
+{
+  "name": "Product Hierarchy L3",
+  "dataType": "string",
+  "description": "The third level of the product hierarchy assigned to the material.",
+  "sourceColumn": "ProductHierarchyDescriptionL3",
+  "displayFolder": "Product Hierarchy"
+}

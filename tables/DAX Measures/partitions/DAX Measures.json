@@ -1,0 +1,8 @@
+{
+  "name": "DAX Measures",
+  "mode": "import",
+  "source": {
+    "type": "calculated",
+    "expression": "{ 1 }"
+  }
+}

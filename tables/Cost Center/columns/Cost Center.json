@@ -1,0 +1,8 @@
+{
+  "name": "Cost Center",
+  "dataType": "string",
+  "description": "Unique identifier for each cost center.",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "CostCenter"
+}

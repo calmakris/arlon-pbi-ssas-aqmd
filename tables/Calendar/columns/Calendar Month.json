@@ -1,0 +1,7 @@
+{
+  "name": "Calendar Month",
+  "dataType": "string",
+  "sourceColumn": "Month_Name_Abbrev_Calendar",
+  "sortByColumn": "Calendar Period",
+  "displayFolder": "Calendar"
+}

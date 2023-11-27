@@ -1,0 +1,49 @@
+{
+  "name": "MEK Usage",
+  "isHidden": true,
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"CompanyCode\",",
+        "    \"toTable\": \"Company Code\",",
+        "    \"toColumn\": \"Company Code\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"CostCenterKey\",",
+        "    \"toTable\": \"Cost Center\",",
+        "    \"toColumn\": \"Cost Center\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"CostElementKey\",",
+        "    \"toTable\": \"Cost Element\",",
+        "    \"toColumn\": \"Cost Element\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"MaterialNoKey\",",
+        "    \"toTable\": \"Material Master\",",
+        "    \"toColumn\": \"Material Number\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"PlantNoKey\",",
+        "    \"toTable\": \"Plant\",",
+        "    \"toColumn\": \"Plant\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"MEK Usage\",",
+        "    \"fromColumn\": \"PostingDateKey\",",
+        "    \"toTable\": \"Calendar\",",
+        "    \"toColumn\": \"Date\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

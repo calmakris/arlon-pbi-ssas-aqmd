@@ -1,0 +1,9 @@
+{
+  "name": "Company Code",
+  "dataType": "string",
+  "description": "Unique identifier for each company code.",
+  "isUnique": true,
+  "isKey": true,
+  "sourceColumn": "CompanyCode",
+  "dataCategory": "Company"
+}

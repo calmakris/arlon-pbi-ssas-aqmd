@@ -1,0 +1,7 @@
+{
+  "name": "Product Hierarchy L2",
+  "dataType": "string",
+  "description": "The second level of the product hierarchy assigned to the material.",
+  "sourceColumn": "ProductHierarchyDescriptionL2",
+  "displayFolder": "Product Hierarchy"
+}

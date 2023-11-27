@@ -1,0 +1,14 @@
+{
+  "type": "structured",
+  "name": "PBI_STAGE",
+  "connectionDetails": {
+    "protocol": "tds",
+    "address": {
+      "server": "ARLON-PL-PBIDEV",
+      "database": "PBI_STAGE"
+    }
+  },
+  "credential": {
+    "AuthenticationKind": "ServiceAccount"
+  }
+}

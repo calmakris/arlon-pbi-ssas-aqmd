@@ -1,0 +1,6 @@
+{
+  "name": "Operations Category",
+  "dataType": "string",
+  "description": "The category assigned to the cost center from the Operations departments' perspective.",
+  "sourceColumn": "OperationsCategory"
+}

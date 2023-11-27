@@ -1,0 +1,7 @@
+{
+  "name": "Week Group",
+  "dataType": "string",
+  "sourceColumn": "Group_Week",
+  "sortByColumn": "Year_Week_Sort_Key",
+  "displayFolder": "Other"
+}

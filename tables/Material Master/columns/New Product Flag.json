@@ -1,0 +1,7 @@
+{
+  "name": "New Product Flag",
+  "dataType": "string",
+  "description": "Indicates whether the material is new (at most 3 years old from the part number's creation date).",
+  "sourceColumn": "NewProductFlag",
+  "displayFolder": "Master"
+}

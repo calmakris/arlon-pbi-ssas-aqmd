@@ -1,0 +1,6 @@
+{
+  "name": "Company Category",
+  "dataType": "string",
+  "description": "The category assigned to the cost center from a broad, company perspective.",
+  "sourceColumn": "CompanyCategory"
+}

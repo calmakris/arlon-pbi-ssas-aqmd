@@ -1,0 +1,7 @@
+{
+  "name": "Created By",
+  "dataType": "string",
+  "description": "Name of the person who created the part number in SAP.",
+  "sourceColumn": "CreatedBy",
+  "displayFolder": "Master"
+}
