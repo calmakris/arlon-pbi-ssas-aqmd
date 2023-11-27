@@ -2,7 +2,6 @@
   "name": "SemanticModel",
   "compatibilityLevel": 1500,
   "model": {
-    "name": "AQMD",
     "culture": "en-US",
     "annotations": [
       {
