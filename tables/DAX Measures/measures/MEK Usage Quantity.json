@@ -3,5 +3,5 @@
   "description": "The total quantity (in pounds) of MEK used based on the goods issues against cost centers and expenses-related cost elements.",
   "expression": "SUM( 'MEK Usage'[QuantityLB] )",
   "formatString": "#,0.00",
-  "displayFolder": "03 MEK Usage"
+  "displayFolder": "MEK Usage"
 }
