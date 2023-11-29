@@ -3,5 +3,6 @@
   "dataType": "dateTime",
   "isHidden": true,
   "sourceColumn": "GRDate",
-  "formatString": "Short Date"
+  "formatString": "Short Date",
+  "isAvailableInMdx": false
 }

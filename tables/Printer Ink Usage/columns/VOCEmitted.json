@@ -2,5 +2,6 @@
   "name": "VOCEmitted",
   "dataType": "decimal",
   "isHidden": true,
-  "sourceColumn": "VOCEmitted"
+  "sourceColumn": "VOCEmitted",
+  "isAvailableInMdx": false
 }

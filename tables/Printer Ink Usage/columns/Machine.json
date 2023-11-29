@@ -2,5 +2,6 @@
   "name": "Machine",
   "dataType": "string",
   "isHidden": true,
-  "sourceColumn": "Machine"
+  "sourceColumn": "Machine",
+  "isAvailableInMdx": false
 }

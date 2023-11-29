@@ -2,5 +2,6 @@
   "name": "UsageQtyLB",
   "dataType": "decimal",
   "isHidden": true,
-  "sourceColumn": "UsageQtyLB"
+  "sourceColumn": "UsageQtyLB",
+  "isAvailableInMdx": false
 }

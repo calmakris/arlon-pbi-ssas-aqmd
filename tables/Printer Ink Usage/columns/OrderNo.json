@@ -2,5 +2,6 @@
   "name": "OrderNo",
   "dataType": "string",
   "isHidden": true,
-  "sourceColumn": "OrderNo"
+  "sourceColumn": "OrderNo",
+  "isAvailableInMdx": false
 }

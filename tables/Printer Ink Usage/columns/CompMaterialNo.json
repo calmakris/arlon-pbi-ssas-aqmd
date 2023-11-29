@@ -2,5 +2,6 @@
   "name": "CompMaterialNo",
   "dataType": "string",
   "isHidden": true,
-  "sourceColumn": "CompMaterialNo"
+  "sourceColumn": "CompMaterialNo",
+  "isAvailableInMdx": false
 }
