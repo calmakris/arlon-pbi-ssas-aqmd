@@ -1,0 +1,6 @@
+{
+  "name": "CompMaterialNo",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "CompMaterialNo"
+}

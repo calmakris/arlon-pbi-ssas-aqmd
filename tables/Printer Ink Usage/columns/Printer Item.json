@@ -1,0 +1,6 @@
+{
+  "name": "Printer Item",
+  "dataType": "string",
+  "description": "Printer item used like Gray Ink or PH Adjuster",
+  "sourceColumn": "Item"
+}

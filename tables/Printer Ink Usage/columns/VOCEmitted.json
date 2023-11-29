@@ -1,0 +1,6 @@
+{
+  "name": "VOCEmitted",
+  "dataType": "decimal",
+  "isHidden": true,
+  "sourceColumn": "VOCEmitted"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Machine",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "Machine"
+}
