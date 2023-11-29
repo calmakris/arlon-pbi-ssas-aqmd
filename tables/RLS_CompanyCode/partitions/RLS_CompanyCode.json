@@ -1,0 +1,14 @@
+{
+  "name": "RLS_CompanyCode",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"RLS_CompanyCode\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

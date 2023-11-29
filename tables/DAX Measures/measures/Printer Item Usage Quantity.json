@@ -1,0 +1,7 @@
+{
+  "name": "Printer Item Usage Quantity",
+  "description": "The total quantity (in pounds) of printer item (gray ink or PH adjuster) used to print on the liner based on the goods issues against process orders.",
+  "expression": "SUM( 'Printer Ink Usage'[UsageQtyLB] )",
+  "formatString": "#,0.00",
+  "displayFolder": "Printer Ink Usage"
+}

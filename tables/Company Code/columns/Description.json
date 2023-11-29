@@ -1,0 +1,6 @@
+{
+  "name": "Description",
+  "dataType": "string",
+  "description": "Friendly name of the company code",
+  "sourceColumn": "Description"
+}

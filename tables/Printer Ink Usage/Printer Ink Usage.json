@@ -1,0 +1,59 @@
+{
+  "name": "Printer Ink Usage",
+  "description": [
+    "This table contains the goods issues of liners with specs requiring to print gray ink. The usage of printer items like gray ink and PH adjuster are based on the liner width and spread (KG/1000ft). The VOC emission is based on the table maintained by Operations that has emission per pound of usage.",
+    "",
+    "For additional details, use the dimension tables like Calendar, Company Code, Plant, Process Order, etc."
+  ],
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"CompanyCode\",",
+        "    \"toTable\": \"Company Code\",",
+        "    \"toColumn\": \"Company Code\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"CompMaterialNo\",",
+        "    \"toTable\": \"Material Master\",",
+        "    \"toColumn\": \"Material Number\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"Department\",",
+        "    \"toTable\": \"Department\",",
+        "    \"toColumn\": \"Department\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"GRDate\",",
+        "    \"toTable\": \"Calendar\",",
+        "    \"toColumn\": \"Date\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"Machine\",",
+        "    \"toTable\": \"Machine\",",
+        "    \"toColumn\": \"Machine\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"OrderNo\",",
+        "    \"toTable\": \"Process Order\",",
+        "    \"toColumn\": \"Process Order Number\"",
+        "  },",
+        "  {",
+        "    \"fromTable\": \"Printer Ink Usage\",",
+        "    \"fromColumn\": \"PlantNo\",",
+        "    \"toTable\": \"Plant\",",
+        "    \"toColumn\": \"Plant\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

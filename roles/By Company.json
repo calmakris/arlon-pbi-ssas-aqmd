@@ -1,0 +1,10 @@
+{
+  "name": "By Company",
+  "modelPermission": "read",
+  "tablePermissions": [
+    {
+      "name": "RLS_CompanyCode",
+      "filterExpression": "RLS_CompanyCode[DomainName]=USERNAME() && RLS_CompanyCode[InactiveDate] < TODAY()"
+    }
+  ]
+}
