@@ -1,0 +1,6 @@
+{
+  "name": "Name",
+  "dataType": "string",
+  "description": "Friendly description of the department.",
+  "sourceColumn": "Name"
+}

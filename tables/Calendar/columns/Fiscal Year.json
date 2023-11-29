@@ -1,7 +1,8 @@
 {
   "name": "Fiscal Year",
   "dataType": "string",
+  "description": "Fiscal year of the date.",
   "sourceColumn": "Fiscal_Year_Name",
-  "displayFolder": "Fiscal",
+  "displayFolder": "_Fiscal",
   "summarizeBy": "none"
 }

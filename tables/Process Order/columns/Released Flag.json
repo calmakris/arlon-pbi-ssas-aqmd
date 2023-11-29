@@ -1,0 +1,7 @@
+{
+  "name": "Released Flag",
+  "dataType": "string",
+  "description": "Determines if the process order has the REL status.",
+  "sourceColumn": "ReleasedFlag",
+  "displayFolder": "_Flags"
+}

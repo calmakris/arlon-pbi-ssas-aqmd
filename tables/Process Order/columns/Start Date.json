@@ -1,0 +1,8 @@
+{
+  "name": "Start Date",
+  "dataType": "dateTime",
+  "description": "Scheduled start date for the execution of the order.",
+  "sourceColumn": "StartDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

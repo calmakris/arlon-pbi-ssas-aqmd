@@ -1,0 +1,8 @@
+{
+  "name": "Last Goods Issue Date",
+  "dataType": "dateTime",
+  "description": "Date when the last goods issue is posted against the process order.",
+  "sourceColumn": "LastGoodsIssueDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

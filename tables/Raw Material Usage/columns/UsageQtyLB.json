@@ -1,0 +1,7 @@
+{
+  "name": "UsageQtyLB",
+  "dataType": "decimal",
+  "isHidden": true,
+  "sourceColumn": "UsageQtyLB",
+  "isAvailableInMdx": false
+}

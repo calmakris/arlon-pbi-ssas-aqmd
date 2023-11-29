@@ -1,0 +1,14 @@
+{
+  "name": "Machine",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"DIM_Machine\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

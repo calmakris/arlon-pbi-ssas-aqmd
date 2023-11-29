@@ -3,6 +3,6 @@
   "dataType": "int64",
   "isHidden": true,
   "sourceColumn": "Year_Week_Sort_Key",
-  "displayFolder": "Other",
+  "displayFolder": "_Other",
   "summarizeBy": "none"
 }

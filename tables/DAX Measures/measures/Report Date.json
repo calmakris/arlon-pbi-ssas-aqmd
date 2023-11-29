@@ -1,0 +1,14 @@
+{
+  "name": "Report Date",
+  "description": "Yesterday's date (in UTC)",
+  "expression": " CALCULATE( MAX( 'Calendar'[Date] ), FILTER(  ALLSELECTED('Calendar'), 'Calendar'[Date] <= TODAY() - 1 ) )",
+  "formatString": "Short Date",
+  "isHidden": true,
+  "displayFolder": "_Dates",
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"UNNECESSARY_MEASURES\"]}"
+    }
+  ]
+}

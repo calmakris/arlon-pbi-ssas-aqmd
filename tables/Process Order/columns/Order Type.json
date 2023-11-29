@@ -1,0 +1,6 @@
+{
+  "name": "Order Type",
+  "dataType": "string",
+  "description": "Determines if the process order is for production or factory experiments (FE).",
+  "sourceColumn": "OrderType"
+}

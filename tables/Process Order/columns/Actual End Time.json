@@ -1,0 +1,8 @@
+{
+  "name": "Actual End Time",
+  "dataType": "dateTime",
+  "description": "Specifies the time at which the last phase was confirmed. From this time, the order has the status 'finally confirmed'.",
+  "sourceColumn": "ActualEndTime",
+  "formatString": "hh:nn:ss",
+  "displayFolder": "_Dates"
+}

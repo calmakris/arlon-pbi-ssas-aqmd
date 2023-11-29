@@ -1,0 +1,14 @@
+{
+  "name": "Data Refresh Date",
+  "description": "Timestamp in PST/PDT when the Power BI database collected data from multiple data sources like SAP, Excel files, etc.",
+  "expression": "MAX( '_Refresh Date'[RefreshDate] )",
+  "formatString": "MM/dd/yyyy HH:mm",
+  "isHidden": true,
+  "displayFolder": "_Dates",
+  "annotations": [
+    {
+      "name": "BestPracticeAnalyzer_IgnoreRules",
+      "value": "{\"RuleIDs\":[\"UNNECESSARY_MEASURES\"]}"
+    }
+  ]
+}

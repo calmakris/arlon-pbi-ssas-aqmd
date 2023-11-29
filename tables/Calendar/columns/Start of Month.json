@@ -1,9 +1,10 @@
 {
   "name": "Start of Month",
   "dataType": "dateTime",
+  "description": "The date's beginning of the month.",
   "sourceColumn": "Start_Of_Month",
   "formatString": "Short Date",
-  "displayFolder": "Other",
+  "displayFolder": "_Other",
   "dataCategory": "Date",
   "annotations": [
     {

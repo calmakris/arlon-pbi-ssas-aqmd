@@ -1,7 +1,8 @@
 {
   "name": "Fiscal Month",
   "dataType": "string",
+  "description": "Month names sorted by fiscal period (Oct to Sep).",
   "sourceColumn": "Month_Name_Abbrev",
   "sortByColumn": "Fiscal Period",
-  "displayFolder": "Fiscal"
+  "displayFolder": "_Fiscal"
 }

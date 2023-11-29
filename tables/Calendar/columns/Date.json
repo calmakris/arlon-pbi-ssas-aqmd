@@ -1,6 +1,7 @@
 {
   "name": "Date",
   "dataType": "dateTime",
+  "description": "Primary key of this table.",
   "isUnique": true,
   "isKey": true,
   "sourceColumn": "PK_Date",

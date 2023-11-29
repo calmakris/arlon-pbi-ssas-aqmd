@@ -1,0 +1,7 @@
+{
+  "name": "Count for Comp First Pass Flag",
+  "dataType": "string",
+  "description": "Determines if the process order is counted for the calculation of Compounding's first pass reliaibility metric. The value is 'Yes' if the process order is assigned to one of Compounding's work center and if the process order has final delivery.",
+  "sourceColumn": "CountForCompFPassFlag",
+  "displayFolder": "_Flags"
+}

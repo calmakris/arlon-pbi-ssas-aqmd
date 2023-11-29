@@ -1,0 +1,6 @@
+{
+  "name": "Priority Flag",
+  "dataType": "string",
+  "description": "Priority assigned by the Planning department on the process order.",
+  "sourceColumn": "PriorityFlag"
+}

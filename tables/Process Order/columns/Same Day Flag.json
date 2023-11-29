@@ -1,0 +1,7 @@
+{
+  "name": "Same Day Flag",
+  "dataType": "string",
+  "description": "Determines if the process order has been marked as a same day order by the Planning department.",
+  "sourceColumn": "SameDayFlag",
+  "displayFolder": "_Flags"
+}

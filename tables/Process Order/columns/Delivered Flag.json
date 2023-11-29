@@ -1,0 +1,7 @@
+{
+  "name": "Delivered Flag",
+  "dataType": "string",
+  "description": "Determines if there are goods receipts posted against the process order.",
+  "sourceColumn": "DeliverFlag",
+  "displayFolder": "_Flags"
+}

@@ -1,8 +1,9 @@
 {
   "name": "Calendar Period",
   "dataType": "int64",
+  "description": "Month index based on the calendar.",
   "sourceColumn": "Month_Of_Year",
-  "displayFolder": "Calendar",
+  "displayFolder": "_Calendar",
   "dataCategory": "MonthOfYear",
   "summarizeBy": "none"
 }

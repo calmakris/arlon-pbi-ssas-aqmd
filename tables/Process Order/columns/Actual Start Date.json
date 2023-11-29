@@ -1,0 +1,8 @@
+{
+  "name": "Actual Start Date",
+  "dataType": "dateTime",
+  "description": "The actual start date is the earliest actual date entered in a completion confirmation.",
+  "sourceColumn": "ActualStartDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

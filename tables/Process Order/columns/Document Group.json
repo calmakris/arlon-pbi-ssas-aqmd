@@ -1,0 +1,6 @@
+{
+  "name": "Document Group",
+  "dataType": "string",
+  "description": "Document group, specification number, or recipe group assigned to the process order.",
+  "sourceColumn": "DocGroup"
+}

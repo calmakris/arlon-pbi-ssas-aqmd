@@ -1,0 +1,7 @@
+{
+  "name": "TECO Flag",
+  "dataType": "string",
+  "description": "Determines if the order has the TECO (technically completed) status.",
+  "sourceColumn": "TecoFlag",
+  "displayFolder": "_Flags"
+}

@@ -1,5 +1,6 @@
 {
   "name": "Calendar",
+  "description": "This table stores one date per row starting from 2012 to 2 years forward. It is used to create relationships between dates from multiple fact tables in the data model.",
   "dataCategory": "Time",
   "annotations": [
     {

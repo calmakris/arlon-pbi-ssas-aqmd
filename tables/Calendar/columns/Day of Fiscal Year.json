@@ -1,8 +1,9 @@
 {
   "name": "Day of Fiscal Year",
   "dataType": "int64",
+  "description": "Number of days from the beginning of the fiscal year (Oct 1).",
   "sourceColumn": "Day_Of_Fiscal_Year",
-  "displayFolder": "Fiscal",
+  "displayFolder": "_Fiscal",
   "dataCategory": "FiscalDayOfYear",
   "summarizeBy": "none"
 }

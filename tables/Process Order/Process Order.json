@@ -1,0 +1,10 @@
+{
+  "name": "Process Order",
+  "description": "This table provides general information about the process order entered in SAP.",
+  "annotations": [
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

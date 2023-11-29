@@ -3,7 +3,7 @@
   "dataType": "string",
   "isHidden": true,
   "sourceColumn": "Year_Month_Sort_Key",
-  "displayFolder": "Other",
+  "displayFolder": "_Other",
   "summarizeBy": "none",
   "annotations": [
     {

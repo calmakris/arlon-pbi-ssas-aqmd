@@ -1,0 +1,8 @@
+{
+  "name": "Actual End Date",
+  "dataType": "dateTime",
+  "description": "Date on which the last phase was confirmed. From this date the order has the \"finally confirmed\" status.",
+  "sourceColumn": "ActualEndDate",
+  "formatString": "Short Date",
+  "displayFolder": "_Dates"
+}

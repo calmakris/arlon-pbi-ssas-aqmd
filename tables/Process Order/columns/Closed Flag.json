@@ -1,0 +1,7 @@
+{
+  "name": "Closed Flag",
+  "dataType": "string",
+  "description": "Determines if the order has the CLSD status.",
+  "sourceColumn": "CloseFlag",
+  "displayFolder": "_Flags"
+}

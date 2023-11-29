@@ -1,0 +1,7 @@
+{
+  "name": "GRDate",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "GRDate",
+  "isAvailableInMdx": false
+}

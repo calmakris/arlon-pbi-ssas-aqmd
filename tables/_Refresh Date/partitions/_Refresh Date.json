@@ -1,0 +1,14 @@
+{
+  "name": "_Refresh Date",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"FACT_RefreshDate\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}

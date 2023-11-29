@@ -1,0 +1,14 @@
+{
+  "name": "Process Order",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"PBI_STAGE\",",
+      "    Data = Source{[Schema=\"dbo\",Item=\"DIM_ProcessOrder\"]}[Data]",
+      "in",
+      "    Data"
+    ]
+  }
+}
