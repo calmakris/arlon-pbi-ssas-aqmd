@@ -1,0 +1,17 @@
+{
+  "name": "Raw Material VOC Emitted",
+  "description": "The total quantity (in pounds) of raw materials' VOC emissions based on the goods issues against process orders. If a line uses a material that is produced by another line, the former line is assigned to that particular raw material.",
+  "expression": [
+    "",
+    "VAR _Emission = SUM( 'Raw Material Usage'[VOCEmitted] )",
+    "",
+    "RETURN",
+    "    IF(",
+    "        _Emission = 0,",
+    "        BLANK(),",
+    "        _Emission",
+    "    )"
+  ],
+  "formatString": "#,0.00",
+  "displayFolder": "Raw Material Usage"
+}
