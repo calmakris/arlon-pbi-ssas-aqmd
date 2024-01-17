@@ -1,17 +1,7 @@
 {
   "name": "Printer Item VOC Emitted",
   "description": "The total quantity (in pounds) of the VOC emissions of printer items (gray ink or PH adjuster) used to print on liners based on the goods issues against process orders.",
-  "expression": [
-    "",
-    "VAR _Emission = SUM( 'Printer Ink Usage'[VOCEmitted] )",
-    "",
-    "RETURN",
-    "    IF(",
-    "        _Emission = 0,",
-    "        BLANK(),",
-    "        _Emission",
-    "    )"
-  ],
+  "expression": "SUM( 'Printer Ink Usage'[VOCEmitted] )",
   "formatString": "#,0.00",
   "displayFolder": "Printer Ink Usage"
 }
